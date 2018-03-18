@@ -23,6 +23,7 @@ package de.appplant.cordova.plugin.background;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
+import android.app.PendingIntent;
 import android.app.ActivityManager;
 import android.app.ActivityManager.AppTask;
 import android.content.Context;
